@@ -1,5 +1,3 @@
-# rmd-css
-css collection for R Markdown
 <h1 align="center">Rmd CSS</h1>
 
 <div align="center">
