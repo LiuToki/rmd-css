@@ -31,4 +31,4 @@
 [LiuToki](https://github.com/LiuToki)
 
 ## License
-Please check for each project.
+[MIT](./LICENSE)
