@@ -1,14 +1,14 @@
-<h1 align="center">Rmd CSS</h1>
+<h1 align="center">Rmd Templates</h1>
 
 <div align="center">
-    <strong>CSS collection for R Markdown</strong>
+    <strong>The Template collection for R Markdown</strong>
 </div>
 
 <br/>
 
 <div align="center">
     <sub>
-        This is my CSS collection for R markdown.
+        This is my R markdown templates.
     </sub>
 </div>
 
@@ -25,7 +25,7 @@
 1. Switch branch what you want to use.
 1. Clone or download zip.
 
-# CSS list
+# Template list
 
 ## Author
 [LiuToki](https://github.com/LiuToki)
