@@ -16,7 +16,7 @@
 
 ## Table of Contents
 - [How to use](#how-to-use)
-- [CSS list](#css-list)
+- [Template list](#template-list)
 - [Author](#author)
 - [LICENSE](#license)
 
